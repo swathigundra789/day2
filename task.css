@@ -79,252 +79,468 @@
 }
 .r{
     text-align: center;
-    background-color: rgb(25, 165, 119);
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
+    text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* background-color: rgb(25, 165, 119);
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:25px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 .kotlin{
     text-align: center;
-    background-color: chocolate;
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
+    text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* background-color: chocolate;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:45px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 .node{
     text-align: center;
-    background-color:yellowgreen;
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
+    text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* background-color:yellowgreen;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:30px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 .react{
     text-align: center;
-    background-color:navy;
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
+    text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* background-color:navy;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:40px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 /* /4 */
 .son{
     text-align: center;
-    background-color:rgb(234, 127, 127);
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
+    text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* background-color:rgb(234, 127, 127);
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:25px;
     padding-top:40px;
-    
+     */
 }
 .vue{
     text-align: center;
-    background-color:palevioletred;
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
+    text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* background-color:palevioletred;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:45px;
-    padding-top:40px;
+    padding-top:40px; */
     
 }
 .sql{
     text-align: center;
-    background-color: lightblue;
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
+    text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* background-color: lightblue;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:30px;
-    padding-top:40px;
+    padding-top:40px; */
 
 }
 .xml{
     text-align: center;
-    background-color:aqua;
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
+    text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* background-color:aqua;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:40px;
-    padding-top:40px;
+    padding-top:40px; */
 /* /4 */
 }
 .sass{
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
     text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* text-align: center;
     background-color:purple;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:25px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 .icons{
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
     text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* text-align: center;
     background-color:cornflowerblue;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:45px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 .rwd{
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
     text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* text-align: center;
     background-color: rgb(202, 117, 12);
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:30px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 .graph{
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
     text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* text-align: center;
     background-color:burlywood;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:40px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 /* /5 */
 .svg{
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
     text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* text-align: center;
     background-color:plum;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:25px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 .canvas{
-    text-align: center;
+    background-color: rgb(28, 116, 25);
+        width: 500px;
+        height: 100%;
+        padding: 30px 20px 30px 10px;
+        border-color: 10px solid rgb(90, 94, 112);
+        border-radius: 5%;
+        text-align: center;
+        margin: 50px;
+        display: inline-block;
+    /* text-align: center;
     background-color:blueviolet;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:45px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 .pi{
+    background-color: rgb(28, 116, 25);
+        width: 500px;
+        height: 100%;
+        padding: 30px 20px 30px 10px;
+        border-color: 10px solid rgb(90, 94, 112);
+        border-radius: 5%;
+        text-align: center;
+        margin: 50px;
+        display: inline-block;
     
-    text-align: center;
+    /* text-align: center;
     background-color:darkcyan;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:30px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 
 .cyber{
-    text-align: center;
+    background-color: rgb(28, 116, 25);
+        width: 500px;
+        height: 100%;
+        padding: 30px 20px 30px 10px;
+        border-color: 10px solid rgb(90, 94, 112);
+        border-radius: 5%;
+        text-align: center;
+        margin: 50px;
+        display: inline-block;
+    /* text-align: center;
     background-color:azure;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:40px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 /* /6 */
 .color{
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
     text-align: center;
+    margin: 50px;
+    display: inline-block;
+        /* text-align: center;
     background-color:yellow;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:25px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 .git{
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
     text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* text-align: center;
     background-color:grey;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:45px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 .mat{
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
     text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* text-align: center;
     background-color:lightsalmon;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:30px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 .numpy{
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
     text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* text-align: center;
     background-color:chartreuse;
     height:150px;
     width:20%;
     border-radius:20px;
     display: inline-block;
     margin:40px;
-    padding-top:40px;
+    padding-top:40px; */
 }
 .excel{
+    background-color: rgb(28, 116, 25);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
     text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* text-align: center;
     background-color: crimson;
     height:150px;
     width:40%;
     border-radius:20px;
     display: inline-block;
     margin:70px;
-    padding-top:30px;
+    padding-top:30px; */
 }
 .dsa{
+    background-color: rgb(199, 66, 66);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
     text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* text-align: center;
     background-color:violet;
     height:150px;
     width:40%;
     border-radius:20px;
     display: inline-block;
     margin:70px;
-    padding-top:30px; 
+    padding-top:30px;  */
 }
 .ml{
-    text-align: center;
+    background-color: rgb(67, 93, 206);
+        width: 500px;
+        height: 100%;
+        padding: 30px 20px 30px 10px;
+        border-color: 10px solid rgb(90, 94, 112);
+        border-radius: 5%;
+        text-align: center;
+        margin: 50px;
+        display: inline-block;
+    /* text-align: center;
     background-color:lightseagreen;
     height:150px;
     width:40%;
     border-radius:20px;
     display: inline-block;
     margin:70px;
-    padding-top:30px;
+    padding-top:30px; */
 }
 .ai{
+    background-color: rgb(114, 83, 197);
+    width: 500px;
+    height: 100%;
+    padding: 30px 20px 30px 10px;
+    border-color: 10px solid rgb(90, 94, 112);
+    border-radius: 5%;
     text-align: center;
+    margin: 50px;
+    display: inline-block;
+    /* text-align: center;
     background-color:lightslategray;
     height:150px;
     width:40%;
     border-radius:20px;
     display: inline-block;
     margin:70px;
-    padding-top:30px; 
+    padding-top:30px;  */
 }
 
 button{
